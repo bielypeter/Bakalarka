@@ -917,11 +917,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 0f5d37e0-1d0d-44dd-ba76-9bf3c24556e9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: MRTKDevTemplate
+  organizationId: pemi24
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

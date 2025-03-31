@@ -5,7 +5,11 @@ using UnityEngine;
 public class DualGazeKeyboardHandler : MonoBehaviour { 
     public TMP_InputField inputField; 
     public GameObject confirmationElement; 
+    public TMP_Text cpmDisplay;
     private string pendingCharacter;
+    private float startTime;
+    private bool typingStarted = false;
+    private int characterCount = 0;
 
     void Start()
     {

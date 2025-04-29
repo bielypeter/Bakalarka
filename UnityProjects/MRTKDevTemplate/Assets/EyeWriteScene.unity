@@ -1003,7 +1003,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8008645128334983964, guid: 10ef59517c853ba4a80cf2331a560f63, type: 3}
       propertyPath: <GazeDwellTime>k__BackingField
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8008645128334983964, guid: 10ef59517c853ba4a80cf2331a560f63, type: 3}
       propertyPath: <OnClicked>k__BackingField.m_PersistentCalls.m_Calls.Array.size
